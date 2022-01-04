@@ -62,7 +62,7 @@
                 <configuration>
                     <rules>
                         <rule>
-                            <element>BUNDLE</element>
+                            <element>CLASS</element>
                             <limits>
                                 <limit>
                                     <counter>INSTRUCTION</counter>
