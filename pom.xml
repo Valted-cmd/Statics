@@ -62,7 +62,6 @@
                 <configuration>
                     <rules>
                         <rule>
-                            <element>CLASS</element>
                             <limits>
                                 <limit>
                                     <counter>INSTRUCTION</counter>
